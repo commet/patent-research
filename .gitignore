@@ -1,0 +1,19 @@
+# Large data files (download separately)
+patents_all.json
+patents_all.csv
+
+# Python
+__pycache__/
+*.pyc
+.env
+
+# Obsidian
+.obsidian/
+.trash/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# PDF files (too large for git)
+*.pdf
