@@ -15,5 +15,8 @@ __pycache__/
 .DS_Store
 Thumbs.db
 
-# PDF files (too large for git)
-*.pdf
+# Large PDF files (>100MB, excluded from git)
+Research papers/British patent system during the Industrial Revolution, 1700-1852.pdf
+Research papers/TECHNOLOGICAL CHANGE- A HISTOR*.pdf
+Research papers/Titles_of_Patents_of_Invention (1-4800).pdf
+Research papers/Titles_of_Patents_of_Invention (4801-).pdf
